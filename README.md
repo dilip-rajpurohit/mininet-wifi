@@ -50,7 +50,7 @@ If you prefer to use Mininet-WiFi with Docker you should follow the steps descri
 
 ### Building Topologies with GUI
 
-![](https://github.com/ramonfontes/vnd/blob/master/miniedit.png)
+![](/home/pirate/screen.jpg)
 
 I'm a beginner, I do not know Python and I would like to create a customized topology with a GUI. In this case, [MiniEdit](https://github.com/intrig-unicamp/mininet-wifi/blob/master/examples/miniedit.py) can serve as support since it provides a GUI to generate Python scripts. 
 
